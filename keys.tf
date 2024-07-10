@@ -1,0 +1,5 @@
+# resource "aws_key_pair" "wipro-trainer-key1" {
+#     key_name = "wipro-trainer-key1"
+#     public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDJKRntHcHz8YojzVXVqNdBIBGd0OjtOE2exwEWfbkAhSQ6jpaxNQaFygXWR1JN946q2/amcAjo24UMiM9MrMznSckNXi+LxixQ97q/KIwq4Q+VWvm7EGOU+5YxtW2WLno86RrdfTu1AnCO4+5WSWriMtuDtoUwwOb0sveEVBEN1ythAj08OUPgwiS28aGF7NRhwWAod5dil0B04uDzmo5DcfFDBhDpFYJCkgxqoZQ1IhF4jpDdnsx1HUq34QWuxQ9omYp2sNwsEjI5m7LCivuAQ+nwTxxjDl+SXN4xqviH82qEDQiK7RSwVzuHjsS6AUgMPBbuz7hcUEDUUBSFK+4PR489L4HL1wTy/Vt9CTj+8mbNtA6YNuiVdWMhpCwP0h5I4pOph0ghoGxrzrben4PNb8fTCh5K+6TnsmD1yjGLg9g0Cgf6cNXNwXaHIpjXP54OJzh0EHDSMLeO05EjnB1DOq1mFJFT3WM8TSG48+uVCI0BJYgvtgi0J7MTWNbVwz8= priar technoworld@samosa"
+  
+# }
